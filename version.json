@@ -1,0 +1,13 @@
+{
+  "dataVersion": 0,
+  "android": {
+    "latest": {
+      "versionCode": "0.7.761",
+      "releaseDate": 20260702
+    },
+    "minimum": {
+      "versionCode": "0.7.761",
+      "releaseDate": 20260702
+    }
+  }
+}
